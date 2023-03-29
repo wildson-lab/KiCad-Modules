@@ -1,4 +1,4 @@
-(footprint "Mini-360_MP2307_Buck_Converter_Module" (version 20221018) (generator pcbnew)
+(footprint "Mini-360_MP2307_Module" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
