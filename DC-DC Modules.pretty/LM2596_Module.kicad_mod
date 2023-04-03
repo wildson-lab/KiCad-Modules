@@ -57,4 +57,9 @@
     (thermal_bridge_angle 45) (tstamp dc279ffb-2929-4aa3-8dd5-c29ed26fa989))
   (pad "4" thru_hole rect (at 19.7485 -8.5725) (size 2.54 2.54) (drill 1.3) (layers "*.Cu" "*.Mask")
     (thermal_bridge_angle 45) (tstamp de1f5bc0-a676-49a7-a1ea-27580ca063ad))
+  (model ":KICAD7_3DMODEL_DIR:DC-DC Modules/LM2596.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
